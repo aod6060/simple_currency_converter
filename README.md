@@ -1,5 +1,5 @@
 # Simple Currency Converter
-Simple app that converts different currencies to another currency. Simple and easy.
+Simple app that converts different currencies to another currency. Simple and easy. Have a look at it, it is opensource so go ahead and take a look at it. 
 
 License
 
